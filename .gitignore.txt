@@ -1,0 +1,9 @@
+target/
+build/
+dist/
+nbproject/private/
+*.class
+*.log
+*.db
+*.sqlite
+*.sqlite3
